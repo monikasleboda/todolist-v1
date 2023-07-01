@@ -11,6 +11,8 @@ This project is in progress. It will be a To Do list which shows the current dat
 - JavaScript
 - GIT
 - EJS
+- Node.js
+- Express.js
 <br>
 
 ## What have I learned?
