@@ -17,8 +17,8 @@ This project is in progress. It will be a To Do list which shows the current dat
 
 ## What have I learned?
 - creating EJS templates,
-- passing variables from the server over to a template file using EJS,
 - how to use EJS to run code inside the template,
+- passing data from a webpage to a server,
 - conditional statement "switch",
 <br>
 <br>
