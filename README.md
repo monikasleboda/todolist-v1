@@ -4,7 +4,7 @@
 <br>
 
 ## What is this project about?
-This project is in progress. It will be a To Do list which shows the current date and month at the top. It will be possible to add new items and then check them of.
+This is a To Do list which shows the current date and month at the top. It enables to add new items and then check them of.
 
 ## Technologies used
 - HTML
@@ -19,6 +19,9 @@ This project is in progress. It will be a To Do list which shows the current dat
 - creating EJS templates,
 - how to use EJS to run code inside the template,
 - passing data from a webpage to a server,
+- the concept of scope in the context of JavaScript,
+- understanding templates vs layouts,
+- understanding Node Module Exports: how to pass functions and data between files.
 <br>
 <br>
 
