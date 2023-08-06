@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://github.com/monikasleboda/todolist-v1"><img src="images/screenshot.png" alt="screenshoot"></a>
+<a href="https://github.com/monikasleboda/todolist-v1"><img src="images/screenshot.png" alt="screenshot"></a>
 </p>
 
 <h1 align="center">To Do List</h1>
