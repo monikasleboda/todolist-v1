@@ -1,3 +1,7 @@
+<p align="center">
+<a href="https://github.com/monikasleboda/todolist-v1"><img src="images/screenshot.png" alt="screenshoot"></a>
+</p>
+
 <h1 align="center">To Do List</h1>
   <p align="center">Project for learning partials and templating.</p>
 <br>
